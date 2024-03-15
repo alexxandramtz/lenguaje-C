@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
 	resta = numero1 - numero2;
 	printf ("la resta de la multiplicacion es  :");
 	printf ("%d" , &resta);
-	gets();
+	
 
 	
 	

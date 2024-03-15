@@ -14,13 +14,13 @@ int main(int argc, char *argv[]) {
 	scanf ("%i",&numero2);
 	
 	multiplicacion = numero1 * numero2;
-	printf ("la multiplicacion de ambos numeros  es : " );
+	printf ( \n "la multiplicacion de ambos numeros  es : " );
 	printf ( "%i" , multiplicacion );
 	
 	resta = multiplicacion - numero1;
 	printf ( " la resta de la multiplicacion es  : " );
 	printf ( "%i" , resta);
-	//printf("%s",nombre);
+	
 	
 
 	
